@@ -56,11 +56,11 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 The machines on the internal network are not exposed to the public Internet. 
 
 Only the Jumpbox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- _TODO: 70.106.241.86
+: 70.106.241.86
 
 Machines within the network can only be accessed by the ansible container.
 
-- _TODO: Which machine did you allow to access your ELK VM? What was its IP address? The jump box machine has access to the Elk VM Ip Address-70.106.241.86
+Which machine did you allow to access your ELK VM? What was its IP address? The jump box machine has access to the Elk VM Ip Address-70.106.241.86
 
 A summary of the access policies in place can be found in the table below.
 
